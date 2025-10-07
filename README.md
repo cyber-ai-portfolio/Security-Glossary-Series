@@ -10,3 +10,4 @@ A growing collection of concise, well‑styled markdown files that capture secur
 |------------|---------------------------|------|
 | 2025‑10‑05 | Security Glossary – Day 1 | [2025-10-05-security-glossary.md](Security‑Glossary/2025-10-05-security-glossary.md) |
 | 2025‑10‑06 | Security Glossary – Day 2 | [2025-10-06-security-glossary.md](Security‑Glossary/2025-10-06-security-glossary.md) |
+| 2025‑10‑07 | Security Glossary – Day 3 | [2025-10-07-security-glossary.md](Security‑Glossary/2025-10-07-security-glossary.md) |
