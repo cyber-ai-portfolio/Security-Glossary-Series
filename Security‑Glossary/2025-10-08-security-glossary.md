@@ -1,4 +1,4 @@
-# Security Glossary – Day 1
+# Security Glossary – Day 4
 **Date:** 2025-10-08 
 
 **Tags:** antivirus, siem, linux, programming 
