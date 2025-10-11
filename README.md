@@ -14,3 +14,4 @@ A growing collection of concise, well‑styled markdown files that capture secur
 | 2025‑10‑08 | Security Glossary – Day 4 | [2025-10-08-security-glossary.md](Security‑Glossary/2025-10-08-security-glossary.md) |
 | 2025‑10‑09 | Security Glossary – Day 5 | [2025-10-09-security-glossary.md](Security‑Glossary/2025-10-09-security-glossary.md) |
 | 2025‑10‑10 | Security Glossary – Day 6 | [2025-10-10-security-glossary.md](Security‑Glossary/2025-10-10-security-glossary.md) |
+| 2025‑10‑11 | Security Glossary – Day 7 | [2025-10-11-security-glossary.md](Security‑Glossary/2025-10-11-security-glossary.md) |
